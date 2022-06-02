@@ -1,5 +1,5 @@
 ## Hi there, I'm David - aka DeepPixel 👋
-### I'm a Husband, Father, Developer, and Teacher!!
+### I'm a Husband, Father, Developer!!
 
 - 🔭 I’m currently working on own portfolio site
 - 🌱 I’m currently learning everything
